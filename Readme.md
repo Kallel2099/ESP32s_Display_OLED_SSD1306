@@ -1,8 +1,6 @@
 # Projeto IOT com ESP32S e Display OLED SSD1306
 
-![](https://img.shields.io/badge/Licença-MIT-greem)
-
-![](https://img.shields.io/badge/Linguagem-C-yellow)
+![](https://img.shields.io/badge/Licença-MIT-greem) ![](https://img.shields.io/badge/Linguagem-C-yellow)
 
 
 ## Descrição
