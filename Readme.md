@@ -41,3 +41,7 @@ Displays OLED são uma opção muito interessante para quem busca visualizar pou
 ## Imagem das Conexões
 
 ![Conexão dos componentes](ESP32s_Display_OLED.jpg)
+
+## Foto do Projeto
+
+![Foto do Projeto](ESP32s_Display_OLED_foto.jpg)
